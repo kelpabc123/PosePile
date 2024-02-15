@@ -34,5 +34,6 @@ setup(
         'simplepyutils @ git+https://github.com/isarandi/simplepyutils.git',
         'humcentr-cli @ git+https://github.com/isarandi/humcentr-cli.git',
         'barecat @ git+https://github.com/isarandi/BareCat.git',
+        'posepile.util @ git+https://github.com/kelpabc123/PosePile.git'
     ]
 )
