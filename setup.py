@@ -12,7 +12,7 @@ setup(
     version='0.1.0',
     author='István Sárándi',
     author_email='sarandi@vision.rwth-aachen.de',
-    packages=['posepile','posepile.util']),
+    packages=['posepile','posepile.util'],
     scripts=[],
     license='LICENSE',
     description='',
