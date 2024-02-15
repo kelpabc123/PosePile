@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import os
 import os.path as osp
 
@@ -12,7 +12,7 @@ setup(
     version='0.1.0',
     author='István Sárándi',
     author_email='sarandi@vision.rwth-aachen.de',
-    packages=['posepile','posepile.util'],
+    packages=find_packages(),
     scripts=[],
     license='LICENSE',
     description='',
